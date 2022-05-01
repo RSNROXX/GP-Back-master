@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "admin",
+    "lastName": "admin",
+    "email": "amantk1010@gmail.com",
+    "phone": 374980117,
+    "password": "$2b$10$f7bRxBdDnn2VGla95Bv0QuR4hy01TgZL4PMlIoPYuEclzxaH7IoNa",
+    "admin": true
+  },
+  {
+    "firstName": "testuser ",
+    "lastName": "testuser",
+    "email": "test@test.com",
+    "phone": 123456,
+    "password": "t$2b$10$nV1D0i3LLZ/sL4erIn4kMuEWVif15QU6JL5LH58Wm0bqoguSTQHnm",
+    "admin": false
+  },
+  {
+    "firstName": "hengadmin",
+    "lastName": "hengadmin",
+    "email": "ianyaheng822@gmail.com",
+    "phone": 123456,
+    "password": "t$2b$10$nV1D0i3LLZ/sL4erIn4kMuEWVif15QU6JL5LH58Wm0bqoguSTQHnm",
+    "admin": true
+  },
+  {
+    "firstName": "chrisadmin ",
+    "lastName": "chrisadmin",
+    "email": "christopher_dalziel@hotmail.com",
+    "phone": 123456,
+    "password": "t$2b$10$nV1D0i3LLZ/sL4erIn4kMuEWVif15QU6JL5LH58Wm0bqoguSTQHnm",
+    "admin": true
+  },
+  {
+    "firstName": "nhanadmin ",
+    "lastName": "nhanadmin",
+    "email": "nhantdang@gmail.com",
+    "phone": 123456,
+    "password": "t$2b$10$nV1D0i3LLZ/sL4erIn4kMuEWVif15QU6JL5LH58Wm0bqoguSTQHnm",
+    "admin": true
+  }
+]

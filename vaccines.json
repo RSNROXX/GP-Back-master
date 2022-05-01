@@ -1,0 +1,80 @@
+[
+  {
+    "brand": "Pentaxim",
+    "description": "Diphtheria, Tetanus, Pertussis, Poliomyelitis and Haemophilus Influenzae type B combination vaccine",
+    "manufacturer": "Sanofi Pasteur",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552234/cumq01oy6ol3yoowakdj.jpg"
+  },
+  {
+    "brand": "Twinrix",
+    "description": "Hepatitis A & B Combination Vaccine",
+    "manufacturer": "GSK",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552099/y2t9sbjrmcpn2gfhdwdh.jpg"
+  },
+  {
+    "brand": "Avaxim",
+    "description": "Hepatitis A Vaccine",
+    "manufacturer": "Hepatitis A Vaccine",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552711/assavnpwasvbfkl92sn1.jpg"
+  },
+  {
+    "brand": "Euvax B",
+    "description": "Hepatitis B Vaccine",
+    "manufacturer": "Sanofi Pasteur",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552758/bmu17mikfrqmo9ebcmjx.jpg"
+  },
+  {
+    "brand": "Zostavax",
+    "description": "Herpes Zoster Vaccine (Shingles)",
+    "manufacturer": "MSD",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580551666/ikhhvnpfpoj9wqbnek5z.jpg"
+  },
+  {
+    "brand": "Gardasil 9",
+    "description": "Human Papillomavirus 9-Valent (Cervical Cancer) Vaccine",
+    "manufacturer": "MSD",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552045/wm9tteakvsb1a6p50z85.jpg"
+  },
+  {
+    "brand": "Vaxigrip Tetra",
+    "description": "Sanofi Pasteur",
+    "manufacturer": "Influenza Quadrivalent Vaccine",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580551457/tehtw4yfgihph4l26yul.jpg"
+  },
+  {
+    "brand": "MMR-II",
+    "description": "Measles, Mumps & Rubella Combination Vaccine",
+    "manufacturer": "MSD",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552416/evfsbiyto6iev91nqta2.jpg"
+  },
+  {
+    "brand": "Nimenrix",
+    "description": "Meningococcal types A, C, W & Y Vaccine",
+    "manufacturer": "Pfizer",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552650/gqzby69bp0yqjaapg9af.jpg"
+  },
+  {
+    "brand": "Prevenar 13",
+    "description": "Pneumoccal Vaccine",
+    "manufacturer": "Pfizer",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580549269/rmso9hnmopro2mnsgjet.jpg"
+  },
+  {
+    "brand": "Adacel",
+    "description": "Tetanus, Diphtheria & Acellular Pertussis Combination Vaccine",
+    "manufacturer": "Sanofi Pasteur",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552492/jnptcg7sawbnostnbz0y.jpg"
+  },
+  {
+    "brand": "Typhim Vi",
+    "description": "Typhoid Vaccine",
+    "manufacturer": "Sanofi Pasteur",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580548540/xhsh26d8xjwdqhrjtkfl.jpg"
+  },
+  {
+    "brand": "Varivax",
+    "description": "Varicella Virus (Chickenpox) Vaccine",
+    "manufacturer": "MSD",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580552552/k9aptthgopzvvowmuh0x.jpg"
+  }
+]

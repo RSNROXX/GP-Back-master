@@ -1,0 +1,52 @@
+[
+  {
+    "serviceName": "Pre-employment Health Check",
+    "serviceDescription": "",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580555841/yfavucfuxplteczt7cwf.jpg"
+  },
+  {
+    "serviceName": "Pre-University/College Enrolment Health Check",
+    "serviceDescription": "",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580556326/cxq26qe7xobmvd5tikp2.jpg"
+  },
+  {
+    "serviceName": "ECG",
+    "serviceDescription": "Electrocardiogram",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580556465/icsgnfl1kexwmlgvppej.jpg"
+  },
+  {
+    "serviceName": "Blood Tests",
+    "serviceDescription": "Various Types",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580556600/knf50resefhoguvyw33w.jpg"
+  },
+  {
+    "serviceName": "Dengue Rapid",
+    "serviceDescription": "Combo Test",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580556851/sq11u2hcatrenwnermjl.jpg"
+  },
+  {
+    "serviceName": "Influenza Test & Treatment",
+    "serviceDescription": "",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580557000/ixnhrwg8oibmctfbqkuo.jpg"
+  },
+  {
+    "serviceName": "Urine Tests",
+    "serviceDescription": "",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580557147/nkuqacihaeib1gmbwj5s.jpg"
+  },
+  {
+    "serviceName": "Pregnancy Test",
+    "serviceDescription": "Urine",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580557996/qqa6iexpdxkzvczykz5w.jpg"
+  },
+  {
+    "serviceName": "Influenza A/B Rapid Test",
+    "serviceDescription": "Only nasal swab required",
+    "imageUrl": "http://res.cloudinary.com/acloudname10/image/upload/v1580876272/ta0tq9506sythzld91sz.jpg"
+  },
+  {
+    "serviceName": "Pap Smears",
+    "serviceDescription": "",
+    "imageUrl": "https://res.cloudinary.com/acloudname10/image/upload/v1580964152/cieeyga8canyx7cp27by.png"
+  }
+]

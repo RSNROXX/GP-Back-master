@@ -1,0 +1,37 @@
+[
+  {
+    "order": "0",
+    "dayOfTheWeek": "Monday",
+    "openingHours": "9:00am - 9:30pm"
+  },
+  {
+    "order": "1",
+    "dayOfTheWeek": "Tuesday",
+    "openingHours": "9:00am - 9:30pm"
+  },
+  {
+    "order": "2",
+    "dayOfTheWeek": "Wednesday",
+    "openingHours": "9:00am - 9:30pm"
+  },
+  {
+    "order": "3",
+    "dayOfTheWeek": "Thursday",
+    "openingHours": "9:00am - 9:30pm"
+  },
+  {
+    "order": "4",
+    "dayOfTheWeek": "Friday",
+    "openingHours": "9:00am - 9:30pm"
+  },
+  {
+    "order": "5",
+    "dayOfTheWeek": "Saturday",
+    "openingHours": "9:00am - 9:30pm"
+  },
+  {
+    "order": "6",
+    "dayOfTheWeek": "Sunday",
+    "openingHours": "9:00am - 2pm"
+  }
+]
